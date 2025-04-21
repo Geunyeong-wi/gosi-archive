@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 21 Apr 2025 18:04:20 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%EB%B9%84%EC%9A%A9%ED%95%A8%EC%88%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2022 Q1</title>
-      <link>http://localhost:1313/posts/2022-q1/</link>
+      <title>2022년 제1문</title>
+      <link>http://localhost:1313/questions/2022-q1/</link>
       <pubDate>Mon, 21 Apr 2025 18:04:20 +0300</pubDate>
-      <guid>http://localhost:1313/posts/2022-q1/</guid>
+      <guid>http://localhost:1313/questions/2022-q1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;문제&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;기업 A는…&lt;/p&gt;</description>
     </item>

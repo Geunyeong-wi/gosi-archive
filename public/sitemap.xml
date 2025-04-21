@@ -2,27 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/2022-q1/</loc>
-    <lastmod>2025-04-21T18:04:20+03:00</lastmod>
+    <loc>http://localhost:1313/tags/2023/</loc>
+  </url><url>
+    <loc>http://localhost:1313/questions/general/2023-q1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/questions/general/2023-q2/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-21T18:04:20+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-21T18:04:20+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-04-21T18:04:20+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%EB%AF%B8%EC%8B%9C%EA%B2%BD%EC%A0%9C/</loc>
-    <lastmod>2025-04-21T18:04:20+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%EB%B9%84%EC%9A%A9%ED%95%A8%EC%88%98/</loc>
-    <lastmod>2025-04-21T18:04:20+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%EC%83%9D%EC%82%B0%ED%95%A8%EC%88%98/</loc>
-    <lastmod>2025-04-21T18:04:20+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/questions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%EA%B3%B5%EA%B3%B5%EC%9E%AC/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%EB%85%B8%EB%A0%A5%EC%88%98%EC%A4%80/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%EB%AF%B8%EC%8B%9C/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%EC%8B%9C%EC%9E%A5%EC%8B%A4%ED%8C%A8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%EC%B5%9C%EC%A0%81%ED%99%94/</loc>
   </url>
 </urlset>

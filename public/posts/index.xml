@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 5급 공채 경제학 기출 디렉토리</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 5급 공채 경제학 기출 디렉토리</description>
+    <generator>Hugo -- 0.146.6</generator>
+    <language>ko</language>
+    <lastBuildDate>Mon, 21 Apr 2025 18:04:20 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 Q1</title>
+      <link>http://localhost:1313/posts/2022-q1/</link>
+      <pubDate>Mon, 21 Apr 2025 18:04:20 +0300</pubDate>
+      <guid>http://localhost:1313/posts/2022-q1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;문제&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;기업 A는…&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

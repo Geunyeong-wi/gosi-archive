@@ -1,0 +1,8 @@
+baseURL = "https://gosi-econ.netlify.app/"
+languageCode = "ko"
+title = "5급 공채 경제학 기출 디렉토리"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "light"
+  ShowReadingTime = true

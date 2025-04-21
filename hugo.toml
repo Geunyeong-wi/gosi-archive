@@ -5,4 +5,7 @@ theme = "PaperMod"
 
 [params]
   defaultTheme = "light"
-  ShowReadingTime = true
+  ShowReadingTime = false
+
+[params.homeInfoParams]
+  ShowHero = false

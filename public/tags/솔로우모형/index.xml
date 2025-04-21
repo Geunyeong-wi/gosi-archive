@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>솔로우모형 on 5급 공채 경제학 기출 디렉토리</title>
+    <link>http://localhost:1313/tags/%EC%86%94%EB%A1%9C%EC%9A%B0%EB%AA%A8%ED%98%95/</link>
+    <description>Recent content in 솔로우모형 on 5급 공채 경제학 기출 디렉토리</description>
+    <generator>Hugo -- 0.146.6</generator>
+    <language>ko</language>
+    <atom:link href="http://localhost:1313/tags/%EC%86%94%EB%A1%9C%EC%9A%B0%EB%AA%A8%ED%98%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023년 일반행정 제3문</title>
+      <link>http://localhost:1313/questions/general/2023-q3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/questions/general/2023-q3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;문제&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;솔로우 성장모형에서 생산함수가 다음과 같이 콥-더글라스 형태로 주어져 있다.&lt;/p&gt;
+&lt;p&gt;$$
+Y_t = K_t^{\alpha} (A_t L_t)^{1 - \alpha}, \quad 0 &amp;lt; \alpha &amp;lt; 1
+$$&lt;/p&gt;
+&lt;p&gt;(단, $Y_t$는 국내총생산, $A_t$는 기술수준, $K_t$는 자본량, $L_t$는 노동량, $\theta$는 저축률, $\delta$는 감가상각률, $n$은 인구증가율, $g$는 기술진보율이다)&lt;/p&gt;
+&lt;p&gt;효율적 노동자 1인당 자본량과 효율적 노동자 1인당 생산량을 각각&lt;/p&gt;
+&lt;p&gt;$$
+k_t = \frac{K_t}{A_t L_t}, \quad y_t = \frac{Y_t}{A_t L_t}
+$$&lt;/p&gt;
+&lt;p&gt;라고 할 때, 다음 물음에 답하시오. (총 20점)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
